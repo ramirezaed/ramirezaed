@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 ¡Hola! Soy Alejandro Ramírez
 
-<!--
-**ramirezaed/ramirezaed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer con enfoque en Backend, Analista Programador Universitario y estudiante de la Licenciatura en Sistemas de Información, actualmente realizando mi tesis para finalizar la carrera.
 
-Here are some ideas to get you started:
+🚀 Me interesa desarrollar aplicaciones web y APIs REST, diseñando soluciones mantenibles y escalables mediante buenas prácticas de programación y arquitecturas de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Trabajo con tecnologías como Node.js, Express, TypeScript, PHP, Laravel, Next.js, MongoDB y PostgreSQL.
+
+📚 Me motiva aprender nuevas tecnologías, resolver problemas y seguir creciendo profesionalmente a través de nuevos desafíos.
+
+📫 Contacto
+
+💼 LinkedIn
+
+📧 ramirezaed@gmail.com

@@ -10,6 +10,6 @@
 
 📫 Contacto
 
-💼 LinkedIn
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramirez-alejandro-daniel/)
 
 📧 ramirezaed@gmail.com
